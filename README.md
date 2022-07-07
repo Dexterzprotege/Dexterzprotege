@@ -1,0 +1,8 @@
+- 👋 Hi, my name is Sharath
+- 🎓 I have a Bachelor's of Technology degree in Computer Science and Engineering. (Aug 2020)
+- 🌇 Hyderabad Native, with a passion for creating and deploying high scale robust applications. I am very interested in front-end web technologies and try to use UI/UX best practices wherever possible.
+- 🖥️ I have started my career at Amazon as an intern, then as an FTE, but right now working as a System Development Engineer. I have worked on various projects and tech in Amazon Pay and helped improve the business.
+- 💫 As for my future, I hope to one day start my own company which elevates the tech beyond possibilities. And for that reason, I am exploring tech as much as I can.
+- 🚴🏾‍♂️ In my free time, you can find me cycling and sports or writing poems and haikus.
+- 💪🏽 I have an expertise in Software Development, Web application development, Operations, UI/UX design and prototyping, Strategical research, Graphic designing, Content Creation.
+- 🌐 You can explore more about me on: https://sharath.gatsbyjs.io/
