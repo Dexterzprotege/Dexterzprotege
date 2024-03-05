@@ -1,4 +1,6 @@
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTEydWZvMnVwc3c1NzM3cmxodTUxenB5MXQ1eGRhaHBnamFyZmdvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.gif)
+![](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
+
+...
 
 # 💫 About Me:
 📩 sharath.kamlekar@outlook.com | 🖥️ https://sharathkamlekar.me/<br><br>Hi there, I'm Sharath! 🥷 I am a Software Engineer with experience in various Technical domains. I do not have a preferred tech stack as I consider myself a generalist. But I do have a particular interest in Fullstack development and JS+ frameworks. <br>In my free time, I like to stare awkwardly at maps and data (vexillology) and cook new cuisines.<br><br>That's all about me, I would like to connect and hear more about you. Feel free to send a DM and I check every single message.<br><br>Talk to you soon 👋
